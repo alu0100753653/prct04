@@ -7,3 +7,7 @@
 de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior? 
 La principal diferencia es que el interprete interactivo muestra despues de la salida del programa
 '=>nil'
+
+¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete
+interactivo y con pry?
+La diferencia es que el interprete interactivo muestra lo que devuelve cada sentencia escrita en el programa
