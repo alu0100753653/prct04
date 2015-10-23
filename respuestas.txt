@@ -2,3 +2,8 @@
  Es una aplicación de línea de comandos que permite gestionar en un mismo ordenador varios entornos de interpretes de Ruby
  y conjuntos de gemas. Asi en cada momento podemos trabajar con lo que mejor nos convenga. Ademas también podemos probar como 
  se comporta nuestro proyecto con otra version y si no nos gusta volver para atrás.
+ 
+ ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete
+de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior? 
+La principal diferencia es que el interprete interactivo muestra despues de la salida del programa
+'=>nil'
